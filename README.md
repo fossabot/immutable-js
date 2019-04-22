@@ -2,6 +2,7 @@ Immutable collections for JavaScript
 ====================================
 
 [![Build Status](https://travis-ci.org/facebook/immutable-js.svg?branch=master)](https://travis-ci.org/facebook/immutable-js) [![Join the chat at https://gitter.im/immutable-js/Lobby](https://badges.gitter.im/immutable-js/Lobby.svg)](https://gitter.im/immutable-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fimmutable-js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fimmutable-js?ref=badge_shield)
 
 [Immutable][] data cannot be changed once created, leading to much simpler
 application development, no defensive copying, and enabling advanced memoization
@@ -641,3 +642,7 @@ License
 -------
 
 Immutable.js is [MIT-licensed](https://github.com/facebook/immutable-js/blob/master/LICENSE).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fimmutable-js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fimmutable-js?ref=badge_large)
